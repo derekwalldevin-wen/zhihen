@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "checks": [
+    "handmade_updated_export",
+    "circle_centered_export",
+    "12_char_valid",
+    "circle_compare_bottom_exact",
+    "desktop_screenshot",
+    "mobile_screenshot",
+    "no_script_errors"
+  ],
+  "errors": []
+}

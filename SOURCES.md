@@ -15,7 +15,7 @@ https://scikit-image.org/docs/stable/api/skimage.data.html
 - https://raw.githubusercontent.com/scikit-image/scikit-image/v0.24.0/skimage/data/chelsea.png
 - https://raw.githubusercontent.com/scikit-image/scikit-image/v0.24.0/skimage/data/coffee.png
 
-三个 PNG 的原始字节内嵌在 HTML；运行 `tests/prepare_samples.py` 可恢复下表所列本地文件，仓库不重复存放样片。`coffee-upload.jpg` 由验收脚本将 coffee.png 以 JPEG quality=95 转换生成。内嵌样片为这些 PNG 的 Base64 数据；没有在线加载图片。
+三个 PNG 已以原始字节内嵌在 HTML；精简包不重复包含样片，可运行 tests/prepare_samples.py 恢复。`coffee-upload.jpg` 是由 coffee.png 以 JPEG quality=95 转换的测试副本。内嵌样片为这些 PNG 的 Base64 数据；没有在线加载图片。
 
 全部效果图是工具计算并经浏览器实际 PNG 下载所得，没有使用 AI 宣传概念图，没有人工补画输出。未使用用户个人照片；公开仓库仅包含上述许可明确的内嵌样片。工具运行时不会上传用户导入的照片。
 

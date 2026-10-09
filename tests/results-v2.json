@@ -1,0 +1,416 @@
+{
+  "browser": "151.0.7922.173",
+  "checks": [
+    {
+      "check": "startup",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "parameter_depth",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "parameter_simplify",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "parameter_light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "parameter_texture",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "parameter_color",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "concave",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "reset_exact",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "upload_astronaut.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "upload_astronaut.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "upload_chelsea.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "upload_coffee-upload.jpg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "original_ratio",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "export_coffee",
+      "pass": true,
+      "detail": "(1600, 1067)"
+    },
+    {
+      "check": "export_chelsea",
+      "pass": true,
+      "detail": "(1600, 1064)"
+    },
+    {
+      "check": "export_astronaut",
+      "pass": true,
+      "detail": "(1600, 1600)"
+    },
+    {
+      "check": "no_stale_worker",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "churn_equals_fresh",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "crop_3_4",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "export_2400",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "compare_size",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "compare_bottom_matches_single",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "compare_top_is_color_original",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "export_3200",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "offline_change_and_export",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "offline_upload",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "invalid_file_preserves_photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "offline_fresh_html",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "no_overflow_320",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "no_overflow_390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "no_overflow_768",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile_controls_upload_export",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "no_external_requests",
+      "pass": true,
+      "detail": "Only localhost and in-memory Blob GETs; volatile identifiers omitted."
+    },
+    {
+      "check": "no_upload_requests",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "no_script_errors",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "check": "no_console_errors",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "check": "mode_fine",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "mode_intaglio",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "mode_cotton",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "mode_handmade",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "four_distinct_modes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stamp_enable",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stamp_edit",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stamp_clear_keeps_border",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stamp_disable_no_residue",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stamp_english",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "reject_1234567890123",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "reject_纸🙂",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "reject_<img src=x>",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "no_html_injection",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "valid_after_invalid",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stamp_parameter_stampSize",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stamp_parameter_stampOpacity",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stamp_parameter_ink",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stamp_parameter_stampX",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stamp_parameter_stampY",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "zero_ink_no_residue",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "ink_preset_#a34432",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "ink_preset_#34352f",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "ink_preset_#394f75",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stamp_bounds_3:4",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stamp_bounds_1:1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stamp_bounds_4:3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stamp_bounds_original",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "mouse_drag",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "export_stamp_square",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "export_stamp_circle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "export_stamp_strip",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "stamp_preview_export_geometry",
+      "pass": true,
+      "detail": "[[np.float64(0.605), np.float64(0.6378986866791745), np.float64(0.75375), np.float64(0.8592870544090057)], [np.float64(0.605625), np.float64(0.6382380506091846), np.float64(0.753125), np.float64(0.8603561387066542)]]"
+    },
+    {
+      "check": "stamp_compare_bottom_exact",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "export_disable_no_residue",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "mode_churn_stable",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "image_churn_latest",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "touch_drag",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile_boundary_slider",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "v2_no_overflow_320",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "v2_no_overflow_390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "v2_no_overflow_768",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "v2_no_script_errors",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "check": "v2_no_console_errors",
+      "pass": true,
+      "detail": "[]"
+    }
+  ],
+  "errors": [],
+  "console_errors": [],
+  "request_summary": {
+    "local_gets": 1,
+    "blob_gets": 75,
+    "external_requests": 0,
+    "upload_requests": 0
+  },
+  "validation_phase": "Full pre-release rerun after final visual revisions",
+  "tested_html_sha256": "5bfe84e869e1634a6610ba8858bdc923a0ea9698fac6ac9ccee61832448b33d6",
+  "executed_at_utc": "2026-10-09T05:52:51.437593+00:00"
+}
