@@ -1,0 +1,193 @@
+{
+  "browser": "151.0.7922.173",
+  "checks": [
+    {
+      "check": "startup",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "parameter_depth",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "parameter_simplify",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "parameter_light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "parameter_texture",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "parameter_color",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "concave",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "reset_exact",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "upload_astronaut.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "upload_astronaut.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "upload_chelsea.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "upload_coffee-upload.jpg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "original_ratio",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "export_coffee",
+      "pass": true,
+      "detail": "(1600, 1067)"
+    },
+    {
+      "check": "export_chelsea",
+      "pass": true,
+      "detail": "(1600, 1064)"
+    },
+    {
+      "check": "export_astronaut",
+      "pass": true,
+      "detail": "(1600, 1600)"
+    },
+    {
+      "check": "no_stale_worker",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "churn_equals_fresh",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "crop_3_4",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "export_2400",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "compare_size",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "compare_bottom_matches_single",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "compare_top_is_color_original",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "export_3200",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "offline_change_and_export",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "offline_upload",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "invalid_file_preserves_photo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "offline_fresh_html",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "no_overflow_320",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "no_overflow_390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "no_overflow_768",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile_controls_upload_export",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "no_external_requests",
+      "pass": true,
+      "detail": "Only local document and in-memory Blob GET requests; temporary Blob identifiers omitted."
+    },
+    {
+      "check": "no_upload_requests",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "no_script_errors",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "check": "no_console_errors",
+      "pass": true,
+      "detail": "[]"
+    }
+  ],
+  "errors": [],
+  "console_errors": [],
+  "request_summary": {
+    "local_document_get": 1,
+    "in_memory_blob_get": 42,
+    "external_requests": 0,
+    "upload_requests": 0
+  }
+}
